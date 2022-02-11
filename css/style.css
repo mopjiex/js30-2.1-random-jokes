@@ -89,6 +89,8 @@ a {
     border: 1px solid #00CC66;
     background-color: #00CC66;
     border-radius: 10px;
+    font-family: 'Russo One', sans-serif;
+    letter-spacing: 5px;
 }
 
 .main__link:hover {
